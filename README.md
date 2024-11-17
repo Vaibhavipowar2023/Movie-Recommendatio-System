@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommender System
 
 ## Overview
 This project is a content-based movie recommender system that uses data from TMDB and OMDB to suggest movies similar to a user's input. The app displays relevant movie information, such as posters, genres, directors, IMDb ratings, and plot summaries.
